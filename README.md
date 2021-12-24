@@ -1,5 +1,5 @@
 # TLA-CI
-TLA+ specifications accompanying paper: Automated Validation of State-Based Client-Centric Isolation with TLA+ (ASYDE'20). Based on [Crooks' Isolation](https://dl.acm.org/doi/10.1145/3087801.3087802).
+TLA+ specifications accompanying paper: Automated Validation of State-Based Client-Centric Isolation with TLA+ (ASYDE'20) (https://doi.org/10.1007/978-3-030-67220-1_4). Based on [Crooks' Isolation](https://dl.acm.org/doi/10.1145/3087801.3087802).
 
 The code can be run with both:
 
