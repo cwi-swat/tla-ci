@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/sefm/SoethoutSV20,
+  author    = {Tim Soethout and
+               Tijs van der Storm and
+               Jurgen J. Vinju},
+  editor    = {Loek Cleophas and
+               Mieke Massink},
+  title     = {Automated Validation of State-Based Client-Centric Isolation with
+               TLA\textsuperscript{\smaller+}},
+  booktitle = {Software Engineering and Formal Methods. {SEFM} 2020 Collocated Workshops
+               - ASYDE, CIFMA, and CoSim-CPS, Amsterdam, The Netherlands, September
+               14-15, 2020, Revised Selected Papers},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {12524},
+  pages     = {43--57},
+  publisher = {Springer},
+  year      = {2020},
+  doi       = {10.1007/978-3-030-67220-1_4},
+  timestamp = {Mon, 25 Jan 2021 17:33:07 +0100}}
